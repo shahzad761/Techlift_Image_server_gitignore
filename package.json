@@ -1,0 +1,15 @@
+{
+  "name": "image-server",
+  "version": "1.0.0",
+  "description": "First-Commit",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MuhammadShahzadRafiq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-find-files": "^1.0.0"
+  }
+}
